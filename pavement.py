@@ -19,7 +19,7 @@ except:
 
 
 PROJECT = 'inspyred'
-VERSION = '1.0'
+VERSION = '1.1'
 
 # The sphinx templates expect the VERSION in the shell environment
 os.environ['VERSION'] = VERSION
