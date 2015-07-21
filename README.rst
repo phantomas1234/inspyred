@@ -1,3 +1,5 @@
+**This is a fork. It will get removed once a Python 3 compatible release will be available on PyPI.**
+
 ``inspyred`` -- A framework for creating bio-inspired computational intelligence algorithms in Python.
 ------------------------------------------------------------------------------------------------------
 
